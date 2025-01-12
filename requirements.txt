@@ -1,0 +1,7 @@
+requests
+json
+base64
+gTTS
+PyPDF2
+Pillow
+
